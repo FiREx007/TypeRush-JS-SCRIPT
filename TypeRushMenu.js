@@ -3,7 +3,7 @@
 // @namespace    https://greasyfork.org/en/users/your-user-id
 // @version      41.0
 // @description  Advanced auto-typer for TypeRush featuring canvas scraping, dynamic speed control, and a high-end glassmorphism HUD.
-// @author       YourName
+// @author       NinjaFlexx
 // @match        *://*.typerush.com/*
 // @run-at       document-start
 // @grant        none
